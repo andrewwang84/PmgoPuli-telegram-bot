@@ -1,6 +1,6 @@
 # PmgoPuli-telegram-bot
 ------------
-Telegram bot for Puli, which is forked from dimotsai's repo: https://github.com/dimotsai/pokeradar-notification /n
+Telegram bot for Puli, which is forked from dimotsai's repo: https://github.com/dimotsai/pokeradar-notification <br>
 It's now hosting on heroku, feel free to send me PR's
 
 Requirements
