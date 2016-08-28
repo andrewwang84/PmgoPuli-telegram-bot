@@ -1,6 +1,6 @@
 # PmgoPuli-telegram-bot
 ------------
-Telegram bot for Puli, which is forked from dimotsai's repo: https://github.com/dimotsai/pokeradar-notification
+Telegram bot for Puli, which is forked from dimotsai's repo: https://github.com/dimotsai/pokeradar-notification /n
 It's now hosting on heroku, feel free to send me PR's
 
 Requirements
@@ -23,6 +23,7 @@ Other utilities
 - `./draw_map.js` [--config <config file> --zoom <level> --size <picture size>]` draw the current scanning range on google maps.
 
 Unwatched Pokemon:
+---------------
 10 綠毛蟲 11 鐵甲蛹 13 獨角蟲 14 鐵殼昆 
 16 波波 17 比比鳥 19 小拉達 20 拉達 
 21 烈雀 23 阿柏蛇 35 皮皮 39 胖丁
