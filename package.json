@@ -3,8 +3,6 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "author": "dimotsai",
-  "license": "ISC",
   "scripts": {
     "gen_config": "cp example.config.js config.js",
     "print_config": "./print_config.js",
@@ -15,17 +13,22 @@
   "engines": {
     "node": "6.4.0"
   },
+  "author": "dimotsai",
+  "license": "ISC",
   "dependencies": {
+    "lodash": "*",
     "bluebird": "^3.4.1",
     "commander": "^2.9.0",
     "googlemaps": "^1.11.1",
     "moment": "^2.14.1",
     "node-telegram-bot-api": "^0.23.3",
+    "qs": "^6.2.1",
     "request": "^2.74.0",
     "request-promise": "^4.1.1"
   },
   "bin": {
     "poke-radar-notifier-print-config": "./print_config.js",
     "poke-radar-notifier": "./index.js"
-  }
+  },
+  "repository": "https://github.com/dimotsai/pokeradar-notification"
 }
